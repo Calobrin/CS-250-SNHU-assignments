@@ -1,2 +1,12 @@
 # CS-250-SNHU-assignments
 Where I will store my SNHU projects from my CS-250 class
+
+# Question 1- How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs is what leads to the creation of user stories. In the context of the work done through this course, we spoke to users/customers for information on what they would like to see out of the program, and we take that into consideration and use it to build the functional program with the things they desired included in the final outcome. The creation of user stories helps us briefly yet clearly outline what is expected from the users, and how we can turn that into a functional aspect of the program. The user stories are an essential building block to development and by following these stories, we ensure we are implementing what was initially desired from the users.
+
+# Question 2- How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+When I am developing or modifying a program I tend to look at what is most important first, or what requires my attention first. From my experiences so far, I have not been tasked with developing everything straight away by myself, and in the context of this course I am often editing or adding something to previous existing code. I had to identify what it was that needed to be worked on first, and what could be left alone.
+I suppose for agile processes I hope to incorporate would be incrimental progress and breaking up larger tasks into smaller more managable ones. That is generally my go to method for any task or assignment I have, to not do it all in one go and to work at it piece by piece. Also being agile in future development means being ready for change and being able to adapt to it without having to scrap work I have previously worked on.
+
+# Question 3- What does it mean to be a good team member in software development?
+The biggest thing I took note from this course is communication. Especially if you are working in a scrum team communication is paramount and so important and necessary. Being a good team member would mean being able to communicate clearly and openly (and usually quickly too) about any problems, or impediments, you may face. I think being a good team member is the focus on the word "team", by working together and cooperation and coordinating with your team to develop software or programs efficiently and effectively together.
